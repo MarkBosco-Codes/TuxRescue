@@ -2,6 +2,7 @@ NYP INFOSEC - Linux Workshop
 18/9/2021
 Mini-CTF Treasure Hunt
 ==============================
+
 Dear Agent [YOUR NAME HERE]:
 
 Our favourite Linux mascot, Tux, has been captured! The evil Dragon Inc. is keeping him hostage in their office. 
@@ -15,7 +16,7 @@ Good luck!
 ====================
 *MISSIONS:*
 
-Enter Dragon Inc (unzip the folder). Look at the cat.
+Enter Dragon Inc (unzip the folder `unzip `). Look at the cat.
 Flag 1: 
 
 The second flag is hidden in plain sight.
