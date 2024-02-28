@@ -12,12 +12,10 @@ Finally, find where Tux is being kept and extract him using the secret password.
 
 Good luck!
 
-HINTS are available after completing the Feedback form for this workshop! Check the discord server for more details.
-
 ====================
-MISSIONS:
+*MISSIONS:*
 
-Enter Dragon Inc. Look at the cat.
+Enter Dragon Inc (unzip the folder). Look at the cat.
 Flag 1: 
 
 The second flag is hidden in plain sight.
