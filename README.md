@@ -1,5 +1,5 @@
 ## Background
-My first events as an Exco Member at my polytechnic's cybersecurity club (NYP InfoSec) was a Linux Workshop - helping new members set up a Linux Virtual Machine, and getting them comfortable with the command line interface. I created the TuxRescue challenge as a fun finale activity, where participants could put their new skills to practice cracking a challenge typical of our biannual CTF competitions.
+My first event as an Exco Member at NYP InfoSec was an Intro to Linux Workshop - where we helped new members set up a Linux Virtual Machine and showed them around the command line interface. I created the TuxRescue challenge as a fun finale activity, where participants could put their new skills to practice cracking a challenge typical of our biannual CTF competitions.
 
 TuxRescue appeared again at NYP's Youth Cyber Exploration Program in 2022, as part of a series of lessons introducing secondary school students to basic cybersecurity skills.
 
