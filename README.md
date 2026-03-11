@@ -11,6 +11,35 @@ TuxRescue appeared again at NYP's Youth Cyber Exploration Program in 2022, as pa
 
 (enable the rot13 cipher to see the hints)
 
+## Missions
+Enter Dragon Inc. Look at the cat.
+Flag 1: 
+
+The second flag is hidden in plain sight.
+Flag 2: 
+
+The third flag is in a safe in the Study.
+Create a text file called "PASSCODE" with the contents "TUXISHERE". Then find a way to open the safe.
+Flag 3: 
+
+
+The fourth flag is in the Robotics Lab. The flag has been hidden on a special microchip that can only be read by a robot. Create a robot and give it the microchip to reveal the flag.
+Create a user called 'ROBOT'. Make ROBOT the owner and group owner of the document called 'MICROCHIP'.
+Give read (r), write (w) and execute (x) permissions to the owner (ROBOT), but only read (r) permissions to the group and everyone else.
+
+Run the command './activate' to read the microchip.
+You may delete the user 'ROBOT' after you get this flag.
+Flag 4: 
+
+
+The clone lab is under attack by dragon clones! Each dragon produces a different output, but only one will reveal the flag.
+Flag 5:
+
+
+Last flag! This one his hidden high up in the building. No one has beaten 3-second parkour course yet. Will you be the first?
+Flag 6:
+
+
 
 Don't have a Linux machine? Here's NYP InfoSec's [Kali Linux Virtual Machine guide](https://docs.google.com/document/d/1-0Zw5csHRWN5aEPBWzG5d1bh0H4ET2Jz38X7I-dsvtc/).
 
